@@ -7,11 +7,11 @@ Netflix is facing increasing competition from other streaming services, such as 
 In order to stay ahead of the competition, Netflix needs to understand its users' behavior and preferences better.
 This will help Netflix to create content that its users will enjoy and to target its marketing campaigns more effectively
 
-# Data was taken from Kaggle dataset .
-# This project dives into the world of Netflix user behavior using Exploratory Data Analysis (EDA). 
-# Leveraging Python libraries like NumPy, Pandas, Seaborn, and Matplotlib.
-# The project's findings have implications for content creators, marketers, and platform optimization. 
-# Understanding user preferences and behaviors can aid in tailoring content offerings and enhancing user experience.
+* Data was taken from Kaggle dataset .
+* This project dives into the world of Netflix user behavior using Exploratory Data Analysis (EDA). 
+* Leveraging Python libraries like NumPy, Pandas, Seaborn, and Matplotlib.
+* The project's findings have implications for content creators, marketers, and platform optimization. 
+* Understanding user preferences and behaviors can aid in tailoring content offerings and enhancing user experience.
 
 
 
