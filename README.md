@@ -7,6 +7,8 @@ Netflix is facing increasing competition from other streaming services, such as 
 In order to stay ahead of the competition, Netflix needs to understand its users' behavior and preferences better.
 This will help Netflix to create content that its users will enjoy and to target its marketing campaigns more effectively
 
+![](BrandAssets_Logos_01-Wordmark.jpg)
+
 * Data was taken from Kaggle dataset .
 * This project dives into the world of Netflix user behavior using Exploratory Data Analysis (EDA). 
 * Leveraging Python libraries like NumPy, Pandas, Seaborn, and Matplotlib.
