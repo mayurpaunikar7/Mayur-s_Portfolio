@@ -37,5 +37,28 @@ This will help Netflix to create content that its users will enjoy and to target
 
 
 
+# [Project 3: Customer Behavior and Business Analysis: SQL Analytics](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics)
+
+This project delves into the analysis of customer buying behavior, company behavior, sales, profits, losses, and various business metrics. 
+The primary objective is to extract valuable insights from the dataset using SQL queries and provide meaningful answers to critical business questions. 
+Leveraging SQL, Python, and data visualization techniques, this project aims to empower decision-makers with data-driven insights.
+
+# Project Overview
+
+- **Data Structure**: The dataset comprises multiple interconnected tables, including customers, orders, order details, products,
+- categories, payments, shippers, and suppliers. These tables are linked through Primary Keys (PK) and Foreign Keys (FK).
+![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/Customers_Database_Schema_JPG/Customer_Database_Schema.JPG.png)
+
+- **Objective**: This project analyzes customer buying behavior, company behavior, sales, profit, and more using SQL queries.
+
+- **Libraries Used**: SQL, Python (for data visualization and further analysis).
+
+- **Implications**: The project's findings have implications for business decision-makers, marketers, and strategists.
+
+- **Significance**: Understanding customer preferences, company performance, and market trends can inform strategic decisions, optimize sales, and maximize profits.
+
+
+
+
 
 
