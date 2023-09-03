@@ -25,6 +25,8 @@ Netflix is facing increasing competition from other streaming services, such as 
 In order to stay ahead of the competition, Netflix needs to understand its users' behavior and preferences better.
 This will help Netflix to create content that its users will enjoy and to target its marketing campaigns more effectively
 
+![alt text](https://github.com/mayurpaunikar7/Netflix-User-Behaviour-Analysis/blob/main/gsmarena_001.jpg)
+
 ## Project Overview
 
 - **Data Source**: Data was taken from Kaggle dataset.
