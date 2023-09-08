@@ -63,6 +63,27 @@ Leveraging SQL, Python, and data visualization techniques, this project aims to 
 
 
 
+# [Project 4: WhatsApp Chat Analyzer](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer)
+
+This project focuses on analyzing WhatsApp chat data, providing insights into user behavior and chat patterns. 
+Leveraging Python and data visualization libraries, it offers a straightforward way to explore and understand your WhatsApp conversations.
+
+![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/whatsapp-logo.jpg)
+
+## Project Overview
+
+- **Data Source**: Data was extracted from WhatsApp chats and processed for analysis.
+
+- **Objective**: The project's primary goal is to analyze WhatsApp chat data and provide insights into user behavior and chat patterns.
+
+- **Libraries Used**: Python for data cleaning and analysis, Matplotlib, Seaborn for data visualization.
+
+- **Implications**: The project's findings can be valuable for understanding user interactions and communication habits.
+
+- **Significance**: Analyzing chat data can reveal trends, frequent contacts, and user preferences, aiding in improving communication and user experience.
+
+
+
 
 
 
